@@ -23,5 +23,5 @@ This connector is developed by an independent developers and is not affiliated w
 
 ## Contact
 If you have questions or concerns, please contact:
-**[mikkitrtlnng@gmail.com**
+**mikkitrtlnng@gmail.com**
 
