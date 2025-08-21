@@ -26,4 +26,5 @@ This is a Looker Studio Community Connector that allows you to import data from 
 - Only data from Jira Cloud (not Server/DC).
 
 ## Support
-If you have any issues, please contact: mikkitrtlnng@gmail.com
+If you have any issues, please contact: 
+**mikkitrtlnng@gmail.com**
